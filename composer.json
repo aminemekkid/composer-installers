@@ -1,5 +1,5 @@
 {
-    "name": "aoepeople/composer-installers",
+    "name": "aminemekkid/composer-installers",
     "type": "composer-installer",
     "license": "GPL",
     "description": "A simple composer installer",
